@@ -1,4 +1,4 @@
 # CorrectingENtoRUText
 Меняет текст программиста "djn nfre. [y." на "вот такую хню"
 
-![](https://yapx.ru/v/LvOW)
+![](https://i.yapx.ru/LvOX.gif)
